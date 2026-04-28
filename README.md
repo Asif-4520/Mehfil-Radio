@@ -1,5 +1,5 @@
 # 🎵 MEHFIL RADIO  
-*A Modern Music Player Web App — Built with React, TailwindCSS & GSAP*
+*A  Music Player Web App — Built with React, TailwindCSS & GSAP*
 
 > A beautiful and interactive web-based music player created by **EIEM Summer Internship Team-B**.  
 > Designed to showcase animation, interactivity, and responsive web design — perfect for modern portfolios and demo projects.
@@ -26,22 +26,5 @@
 |-------------|-------------|
 | **React.js** | Component-based UI |
 | **Tailwind CSS** | Modern utility-first styling |
-| **GSAP** | Advanced animations & effects |
 | **Lucide React** | Clean vector icons |
 | **HTML5 Audio API** | Handles playback & metadata |
-
----
-
-## 🖼️ Screenshots
-
-> _(Add screenshots or short demo GIFs here)_  
-You can capture them using `Ctrl + Shift + S` or any screen recorder.
-
----
-
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/MEHFIL-RADIO.git
-cd MEHFIL-RADIO
